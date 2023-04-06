@@ -9,8 +9,8 @@
         "default_title": "Latest Covid Report"
     },
     "icons": {
-        "16": "/icons/favicon-16x16.png",
-        "32": "/icons/favicon-32x32.png",
-        "128": "/icons/128x128.png"
+        "16": "/icons/covidMask-16x16.png",
+        "32": "/icons/covidMask-32x32.png",
+        "128": "/icons/covidMask-128x128.png"
       }
 }
